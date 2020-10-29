@@ -18,3 +18,4 @@ D:\C#HandsOn\DevopsSample\DevopsSample\obj\Debug\netcoreapp3.1\DevopsSample.MvcA
 D:\C#HandsOn\DevopsSample\DevopsSample\obj\Debug\netcoreapp3.1\DevopsSample.dll
 D:\C#HandsOn\DevopsSample\DevopsSample\obj\Debug\netcoreapp3.1\DevopsSample.pdb
 D:\C#HandsOn\DevopsSample\DevopsSample\obj\Debug\netcoreapp3.1\DevopsSample.genruntimeconfig.cache
+D:\C#HandsOn\DevopsSample\DevopsSample\bin\Debug\netcoreapp3.1\DevopsSample.yaml
